@@ -1,1 +1,1 @@
-worker: python سورس.بي
+worker: python main.py
